@@ -1,7 +1,13 @@
 # to run
 
-- mac: double click on app in executable/hello_world
-- windows: double click on app in executable/hello_world.exe
+## mac:
+
+- double click on app in executable/hello_world
+
+## windows:
+
+- double click on app in executable/hello_world.exe (it would run and exit)
+- OR open powershell, navigate to the exe file, then type `./hello_world.exe`. you should see the command line program run, print your program output, and exit.
 
 # to compile (mac)
 
